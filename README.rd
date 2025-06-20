@@ -14,12 +14,12 @@ Este projeto é uma aplicação gráfica (GUI) feita em Python que simula a tran
 ## Como executar
 
 1. Instale as dependências:
-   ```
+   ```sh
    pip install -r requirements.txt
    ```
 
 2. Execute o programa:
-   ```
+   ```sh
    python main.py
    ```
 
@@ -27,10 +27,10 @@ Este projeto é uma aplicação gráfica (GUI) feita em Python que simula a tran
 
 ## Estrutura dos Arquivos
 
-- `main.py`: Interface gráfica e lógica principal.
-- `crypto.py`: Funções de criptografia e conversão binária.
-- `mlt3.py`: Algoritmos de codificação/decodificação MLT-3 e plotagem.
-- `network.py`: Gerenciamento de conexão de rede TCP.
+- [`main.py`](main.py): Interface gráfica e lógica principal.
+- [`crypto.py`](crypto.py): Funções de criptografia e conversão binária.
+- [`mlt3.py`](mlt3.py): Algoritmos de codificação/decodificação MLT-3 e plotagem.
+- [`network.py`](network.py): Gerenciamento de conexão de rede TCP.
 
 ## Observações
 
